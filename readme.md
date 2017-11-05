@@ -1,3 +1,5 @@
+# Infotech Real Time Location Service on Azure
+
 Microsoft teamed up with Infotech to bring their quickly growing Real Time Location Service (RTLS) solution into cloud and this way allow them to use scalability of the cloud. RTLS provides people and machine movement monitoring within enclosed areas or in the situations where the precision of GPS is not sufficient solution. It also includes rich visualization and reporting capabilities. Our first step was to move their local deployment to Azure infrastructure and subsequently thru series of hack fests we have built solution running on Platform services. The scope was following:
 
 - Uploading captured BLE beacon data from devices to Azure
